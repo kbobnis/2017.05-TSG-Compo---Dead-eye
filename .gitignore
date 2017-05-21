@@ -2,6 +2,8 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+.DS_Store
+Content/.DS_Store
 *.VC.db
 *.opensdf
 *.opendb
